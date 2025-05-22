@@ -27,6 +27,7 @@
   "rank_pattern": {},
   "revision": null,
   "target_modules": [
+    "k_lin",
     "q_lin",
     "v_lin"
   ],
