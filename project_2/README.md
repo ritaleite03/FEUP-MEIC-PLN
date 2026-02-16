@@ -1,7 +1,5 @@
 # NLP Text Classification with Transformers – Project 2
 
----
-
 ## Overview
 
 This is **Project 2** of the NLP text classification assignment, following up on Project 1.  
@@ -12,8 +10,6 @@ The goal is to **employ Hugging Face Transformers** to improve performance on th
 - Fine-tune the model for the classification task.  
 - Optionally explore **domain adaptation, parameter-efficient fine-tuning (e.g., LoRA), or prompting**.  
 - Compare the performance of the transformer model(s) with traditional ML classifiers from Project 1.  
-
----
 
 ## Project Structure
 
@@ -27,8 +23,6 @@ project_2/
 ├── presentation.pdf          # Assignment presentation
 └── .gitignore
 ````
-
----
 
 ## Setup
 
@@ -52,8 +46,6 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook project.ipynb
 ```
-
----
 
 ## How to Use
 
