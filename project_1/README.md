@@ -1,7 +1,5 @@
 # NLP Text Classification – Project 1
 
----
-
 ## Overview
 
 This project focuses on **NLP text classification** as part of the Machine Learning course. The main objectives are:
@@ -13,8 +11,6 @@ This project focuses on **NLP text classification** as part of the Machine Learn
 - Report results using **Precision, Recall, F1, Macro-F1**, and perform error analysis on misclassifications.
   
 > **Note:** Deep learning architectures (CNNs, RNNs, Transformers) are **not allowed** in this assignment.
-
----
 
 ## Project Structure
 
@@ -28,8 +24,6 @@ project/
 ├── presentation.pdf     # Assignment presentation
 └── .gitignore
 ````
-
----
 
 ## Setup
 
@@ -53,8 +47,6 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook project.ipynb
 ```
-
----
 
 ## How to Use
 
