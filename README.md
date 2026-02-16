@@ -6,15 +6,11 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
----
-
 ## Overview
 
 This repository contains **two NLP projects** developed for the **Natural Language Processing (PLN) course, MEIC 2024/25** at the Faculty of Engineering, University of Porto.  
 
 Both projects focus on **text classification**, with the first using traditional ML classifiers and the second leveraging **Hugging Face Transformers** for fine-tuning.
-
----
 
 ## Projects
 
@@ -30,16 +26,12 @@ Both projects focus on **text classification**, with the first using traditional
 - **Technologies:** Python, Hugging Face Transformers, PyTorch, Pandas, Jupyter, Matplotlib, Seaborn.  
 - [→ See Project 2 README](project_2/README.md)
 
----
-
 ## Grades
 
 | Project   | Final |
 | --------- | ----- |
 | Project 1 | 18.6  |
 | Project 2 | 18.3  |
-
----
 
 ## Contributors
 
@@ -48,8 +40,6 @@ Both projects focus on **text classification**, with the first using traditional
 | Emanuel Maia  | [@emanuxd11](https://github.com/emanuxd11)             |
 | Rita Leite    | [@ritaleite03](https://github.com/ritaleite03)         |
 | Tiago Azevedo | [@TiagoAzevedo1903](https://github.com/TiagoAzevedo1903) |
-
----
 
 ## Structure
 
